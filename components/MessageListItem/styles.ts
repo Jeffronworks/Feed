@@ -15,11 +15,11 @@ const styles = StyleSheet.create({
   },
   title: {
     color: "white",
-    fontSize: 24,
+    fontSize: 22,
   },
   preacher: {
     color: "lightgray",
-    fontSize: 20,
+    fontSize: 18,
   },
 });
 
